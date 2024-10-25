@@ -1,8 +1,8 @@
 #####################################################################
 # Get a Hudu API Key from https://yourhududomain.com/admin/api_keys
-$HuduAPIKey = "abcdefghij123455"
+$HuduAPIKey = "idQH24tfUXpqqRZZ7KgbN23g"
 # Set the base domain of your Hudu instance without a trailing /
-$HuduBaseDomain = "https://your.hudu.domain"
+$HuduBaseDomain = "https://lgxdocs.logixcare.com"
 $HuduAssetLayoutName = "DNS Entries - Autodoc"
 #####################################################################
 # Enable sending alerts on dns change to a teams webhook
